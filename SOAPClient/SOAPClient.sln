@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SOAPClient", "SOAPClient.vcproj", "{FA518655-E7C6-4FBD-BE5A-8DB5BCA11D30}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FA518655-E7C6-4FBD-BE5A-8DB5BCA11D30}.Debug.ActiveCfg = Debug|Win32
+		{FA518655-E7C6-4FBD-BE5A-8DB5BCA11D30}.Debug.Build.0 = Debug|Win32
+		{FA518655-E7C6-4FBD-BE5A-8DB5BCA11D30}.Release.ActiveCfg = Release|Win32
+		{FA518655-E7C6-4FBD-BE5A-8DB5BCA11D30}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
